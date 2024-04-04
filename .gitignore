@@ -1,0 +1,13 @@
+.DS_Store
+# Ignore target folders
+
+/target
+
+/hash-functions/target
+/hash-functions/.DS_Store
+
+/password-functions/target
+/password-functions/.DS_Store
+
+/identity/target
+/identity/.DS_Store
